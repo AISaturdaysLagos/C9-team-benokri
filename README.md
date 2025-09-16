@@ -1,6 +1,6 @@
 # MTN Churn Prediction
 
-![team ben okri header image](images/ben-okri-header-image.png)
+![mtn logo](images/mtn-logo.jpg)
 
 ## 📌 Overview
 This project aims to predict customer churn in Nigeria’s telecom industry using the MTN dataset. By leveraging machine learning, we analyze customer demographics, service usage, and behavioral data to identify churn risks and provide actionable insights.
