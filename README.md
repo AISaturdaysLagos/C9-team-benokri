@@ -60,8 +60,8 @@ This project aims to predict customer churn in Nigeria’s telecom industry usin
   - Interactive tool for analysts and managers
 
 ## 👥 Team Members
-  - Izundu Dan-Ekeh
-  - Daud Abolade
-  - Edeh Ndubuisi Michael
-  - Ekaette Samuel
-  - Akanbi Abiodun Olawale
+  - [Izundu Dan-Ekeh](https://www.linkedin.com/in/izundu-dan-ekeh/)
+  - [Daud Abolade](https://www.linkedin.com/in/daud-abolade-9b20781b6)
+  - [Edeh Ndubuisi Michael](http://www.linkedin.com/in/ndubuisi-edeh-03008444)
+  - [Ekaette Samuel](https://www.linkedin.com/in/samuel-ekaette-9b1664221)
+  - [Akanbi Abiodun Olawale](https://www.linkedin.com/in/abiodun-akanbi-a95953105)
